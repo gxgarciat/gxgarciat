@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently working on Web and App development, along with data analysis.
 * 🌱 I’m currently learning <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/python.svg' alt='Python' height='16'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/javascript.svg' alt='JS' height='16'> and their applications.
-* 👯 I’m looking to collaborate on Open Source projects.
+* 🤝 I’m looking to collaborate on Open Source projects.
 * 💬 Ask me about Naval Architecture. 🚢
 * 📫 How to reach me: <a href="mailto:gxgarciat.dev@gmail.com"> Email </a>
 * ⚡ Fun fact: I have 3 screws in one of my shoulders! It is fully functional though.
